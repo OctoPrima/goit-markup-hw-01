@@ -1,0 +1,35 @@
+body {
+   height: 2349;
+   width: 1600;
+}
+
+header {
+    display: flex;
+    flex-direction: row;
+    width: 1600;
+}
+
+.logo {
+    color: black;
+    text-decoration: none;
+}
+
+.logo-one-chapter {
+    color: blue;
+}
+
+
+.navigation-list {
+    display: flex;
+    flex-direction: row;
+}
+
+.contacts {
+    display: flex;
+    flex-direction: row-reverse;
+}
+
+.contacts-mail {
+    display: inline-flex;
+    flex-direction: column                       ;
+}
