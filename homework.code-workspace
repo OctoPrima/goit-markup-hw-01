@@ -1,0 +1,18 @@
+{
+  "folders": [
+	{
+		"path": "."
+	},
+	{
+		"path": ".git"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "homework"
+  },
+  "extensions": {
+    "recommendations": [
+      "techer.open-in-browser"
+    ]
+  }
+}
